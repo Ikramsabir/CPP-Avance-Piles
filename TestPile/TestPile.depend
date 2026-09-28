@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1790613089 source:c:\users\asus\desktop\ilisi2 s1\c++ avance\exe\testpile\main.cpp
+	<iostream>
+	"PilePoint.h"
+	"PileTab.h"
+
+1790608958 c:\users\asus\desktop\ilisi2 s1\c++ avance\exe\testpile\pilepoint.h
+	<iostream>
+	<cstdlib>
+
+1790612770 c:\users\asus\desktop\ilisi2 s1\c++ avance\exe\testpile\piletab.h
+	<iostream>
+
